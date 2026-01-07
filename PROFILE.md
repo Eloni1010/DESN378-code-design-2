@@ -22,18 +22,18 @@ Update it once, keep it consistent everywhere.
 
 | Platform | Profile URL | Status |
 |----------|-------------|--------|
-| **GitHub** | https://github.com/Eloni1010 | ⏳ |
-| **Figma** | @Eloni1010 | ⏳ |
-| **CodePen** | https://codepen.io/Eloni1010 | ⏳ |
+| **GitHub** | https://github.com/Eloni1010 | ✅ |
+| **Figma** | @Eloni1010 | ✅ |
+| **CodePen** | https://codepen.io/Eloni1010 | ✅ |
 | **Portfolio** | *Coming Week 10* | 🔲 |
 
 ---
 
 ## Profile Photo
 
-- [ ] Same photo uploaded to GitHub, Figma, and CodePen
-- [ ] Professional or at least *intentional*
-- [ ] Face visible (helps me learn names!)
+- [X] Same photo uploaded to GitHub, Figma, and CodePen
+- [X] Professional or at least *intentional*
+- [X] Face visible (helps me learn names!)
 
 ---
 
@@ -53,8 +53,8 @@ Update it once, keep it consistent everywhere.
 
 | Item | Status |
 |------|--------|
-| Education Plan Active | ⏳ |
-| Joined Course Team | ⏳ |
+| Education Plan Active | ✅ |
+| Joined Course Team | ✅ |
 | Expires | <!-- Date --> |
 
 👉 [Check status](https://www.figma.com/settings) → Plan
