@@ -41,8 +41,8 @@ Update it once, keep it consistent everywhere.
 
 | Item | Status |
 |------|--------|
-| Applied/Renewed | ✅ Application pending |
-| Copilot Access | ⏳ |
+| Applied/Renewed | ❌ first application was denyed, attempting again |
+| Copilot Access | ✅ |
 | Expires | <!-- Date --> |
 
 👉 [Check status or renew](https://education.github.com/pack)
