@@ -9,10 +9,10 @@ Update it once, keep it consistent everywhere.
 
 | Field | Value |
 |-------|-------|
-| **Name** | <!-- First Last --> |
-| **Preferred Name** | <!-- What should I call you? --> |
-| **Pronouns** | <!-- Optional --> |
-| **EWU Email** | <!-- @ewu.edu --> |
+| **Name** | Lynn Port |
+| **Preferred Name** | Lynn |
+| **Pronouns** | Any |
+| **EWU Email** | Lport@ewu.edu |
 
 ---
 
@@ -22,9 +22,9 @@ Update it once, keep it consistent everywhere.
 
 | Platform | Profile URL | Status |
 |----------|-------------|--------|
-| **GitHub** | `https://github.com/________` | ⏳ |
-| **Figma** | `@________` | ⏳ |
-| **CodePen** | `https://codepen.io/________` | ⏳ |
+| **GitHub** | https://github.com/Eloni1010 | ⏳ |
+| **Figma** | @Eloni1010 | ⏳ |
+| **CodePen** | https://codepen.io/Eloni1010 | ⏳ |
 | **Portfolio** | *Coming Week 10* | 🔲 |
 
 ---
