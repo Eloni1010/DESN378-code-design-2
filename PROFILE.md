@@ -41,7 +41,7 @@ Update it once, keep it consistent everywhere.
 
 | Item | Status |
 |------|--------|
-| Applied/Renewed | ⏳ |
+| Applied/Renewed | ✅ Application pending |
 | Copilot Access | ⏳ |
 | Expires | <!-- Date --> |
 
