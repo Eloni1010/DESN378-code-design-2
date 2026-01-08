@@ -7,7 +7,10 @@
 // =============================================
 
 console.log('Portfolio loaded');
-
+//week 0
+  alert('Hello World')
+  alert('I am Java Script')
+  alert('You just lost the game lol')
 // Week 1: You'll add theme toggle code here
 // Week 2: You'll add localStorage persistence here
-// Week 3+: More to come...
+// Week 3+: More to come... 
