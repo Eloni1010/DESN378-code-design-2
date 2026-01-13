@@ -21,7 +21,7 @@ body {
   max-width: 800px;
   margin: 0 auto;
   padding: 2rem;
-  color: #1a1a1a;
+  color: #66395b;
   background: #fafafa;
 }
 
@@ -41,7 +41,7 @@ h1 {
 
 p {
   margin-bottom: 1rem;
-  color: #666;
+  color: #2e2e2e;
 }
 
 code {
