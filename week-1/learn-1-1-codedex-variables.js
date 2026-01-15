@@ -62,6 +62,6 @@ let numberOfSongs = 30;
 let avgSongLength = 3;
 let totalMinutes = numberOfSongs * avgSongLength;
 let hours = totalMinutes / 60;
-console.log("There are " + numberOfSongs " in this playlist.");
+console.log("There are " + numberOfSongs + " in this playlist.");
 console.log("The average song length is " + avgSongLength);
 console.log("This playlist is "+ totalMinutes + " minutes long or about " + hours);
