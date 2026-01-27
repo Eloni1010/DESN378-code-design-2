@@ -14,7 +14,12 @@
   margin: 0;
   padding: 0;
 }
-
+:root {
+  --color-surface: #71BF76;
+  --color-text: #223D24;
+  --color-accent: #B36cb9;
+  --color-text-box:#ffffff;
+}
 body {
   font-family: system-ui, -apple-system, sans-serif;
   line-height: 1.6;
