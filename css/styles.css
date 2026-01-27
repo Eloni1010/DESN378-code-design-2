@@ -27,7 +27,7 @@ body {
   margin: 0 auto;
   padding: 2rem;
   color: var(--color-text);
-  background: ;
+  background: var(--color-surface);
 }
 
 main {
