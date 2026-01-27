@@ -21,7 +21,7 @@
   --color-text-box:#ffffff;
 }
 body {
-  font-family: system-ui, -apple-system, sans-serif;
+  font-family: Sono, system-ui, -apple-system, sans-serif;
   line-height: 1.6;
   max-width: 800px;
   margin: 0 auto;
@@ -33,7 +33,7 @@ body.dark {
   --color-surface:#223D24;
   --color-text: #71BF76;
   --color-accent:#B36cb9;
-  --color-text-box:#000000;
+  --color-text-box:#
 }
 main {
   min-height: 80vh;
