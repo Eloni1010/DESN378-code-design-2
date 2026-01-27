@@ -13,7 +13,8 @@ console.log('Portfolio loaded');
   alert('You just lost the game lol')
 const toggle = document.querySelector('.theme-toggle')
 toggle.addEventListener('click', function(){
-document.body.classList.toggle('dark')
+alert('Do you see me?');
+  document.body.classList.toggle('dark')
 });
 
 // Week 2: You'll add localStorage persistence here
