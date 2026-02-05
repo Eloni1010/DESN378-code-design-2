@@ -84,6 +84,11 @@ h1 {
   font-size: 2rem;
   margin-bottom: 1rem;
 }
+h2 {
+   font-family: Limelight, system-ui, -apple-system, sans-serif;
+   font-size: 1rem;
+   margin-bottom: 1rem;
+}
 a {
   color:var(--color-accent)
 }
