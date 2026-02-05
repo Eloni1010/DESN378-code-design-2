@@ -47,6 +47,13 @@
    --color-greyscale-5: #2A2A2A;
    --color-greyscale-6: #181818;
    --color-greyscale-7: #040404;
+   --spacing-xs: 8px;
+   --spacing-s: 16px;
+   --spacing-m: 24px;
+   --spacing-l: 32px;
+   --spacing-xl: 40px;
+   --spacing-xxl: 56px;
+   --spacing-xxxl: 72px;
 }
 body {
   font-family: Sono, system-ui, -apple-system, sans-serif;
