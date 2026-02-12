@@ -11,7 +11,17 @@ console.log('Portfolio loaded');
   alert('Hello World')
   alert('I am Java Script')
   alert('You just lost the game lol')
-
+const toggle = document.querySelector('.theme-toggle');
+toggle.addEventListener('click', function() {
+  const currentTheme = document.documentElement.dataset.theme;
+  let newTheme;
+  if (currentTheme === 'dark') {
+    newTheme = 'light';
+  } else {
+    newTheme = 'dark';
+  }
+  document.documentElement.dataset.theme = newTheme;
+});
 
 // Week 2: You'll add localStorage persistence here
 // Week 3+: More to come... 
