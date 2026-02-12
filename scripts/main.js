@@ -21,6 +21,7 @@ toggle.addEventListener('click', function() {
     newTheme = 'dark';
   }
   document.documentElement.dataset.theme = newTheme;
+  localStorage.setItem('theme', newTheme);
 });
 
 // Week 2: You'll add localStorage persistence here
