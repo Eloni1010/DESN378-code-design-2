@@ -84,6 +84,12 @@ body {
   color: var(--color-text);
   background: var(--color-surface);
 }
+body.dark {
+  --color-surface:var(--color-dark-green-4);
+  --color-text: var(--color-light-green-4);
+  --color-accent:var(--color-pink-4);
+  --color-text-box:var(--color-greyscale-1);
+}
 main {
   min-height: 80vh;
   display: flex;
