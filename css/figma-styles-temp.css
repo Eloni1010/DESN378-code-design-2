@@ -38,15 +38,15 @@
    --spacing-xxxl: 72px;
 }
 :root {
-    /* Lightmode colors go here*/
+    
 }
 /*Light mode*/
 [data-theme= "light"]{
-    /* same variables, different values*/
+   
 }
 /*Dark Mode*/
 [data-theme="dark"] {
-    /*same variable names, different values*/
+    
 }
 /*Typography tokens*/
 :root {
