@@ -125,5 +125,6 @@ code {
   background: var(--color-text-box);
   padding: 0.25rem 0.5rem;
   border-radius: 4px;
+  border-color: var(--color-text);
   font-family: 'SF Mono', Consolas, monospace;
 }
