@@ -38,15 +38,24 @@
    --spacing-xxxl: 72px;
 }
 :root {
-    
+      --color-surface:var(--color-light-green-4);
+  --color-text: var(--color-dark-green-4);
+  --color-accent:var(--color-pink-4);
+  --color-text-box:var(--color-greyscale-1);
 }
 /*Light mode*/
 [data-theme= "light"]{
-   
+     --color-surface:var(--color-light-green-4);
+  --color-text: var(--color-dark-green-4);
+  --color-accent:var(--color-pink-4);
+  --color-text-box:var(--color-greyscale-1);
 }
 /*Dark Mode*/
 [data-theme="dark"] {
-    
+    --color-surface:var(--color-dark-green-4);
+  --color-text: var(--color-light-green-4);
+  --color-accent:var(--color-pink-4);
+  --color-text-box:var(--color-greyscale-1);
 }
 /*Typography tokens*/
 :root {
