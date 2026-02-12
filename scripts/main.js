@@ -13,6 +13,7 @@ console.log('Portfolio loaded');
   alert('You just lost the game lol')
 const toggle = document.querySelector('.theme-toggle');
 toggle.addEventListener('click', function() {
+  alert('button pushed!');
   const currentTheme = document.documentElement.dataset.theme;
   let newTheme;
   if (currentTheme === 'dark') {
