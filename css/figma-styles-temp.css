@@ -58,7 +58,26 @@
   --color-text-box:var(--color-greyscale-1);
 }
 /*Typography tokens*/
-
+h1 {
+  font-family: Limelight, system-ui, -apple-system, sans-serif;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+h2 {
+   font-family: Limelight, system-ui, -apple-system, sans-serif;
+   font-size: 1rem;
+   margin-bottom: 1rem;
+}
+p {
+ font-family: Sono, system-ui, -apple-system, sans-serif;
+   margin-bottom: 1rem;
+  color:var(--color-text);
+}
+small {
+    font-family: Sono, system-ui, -apple-system, sans-serif;
+    margin-bottom: 1rem;
+    color:var(--color-text);
+}
 /*Spacing tokens*/
 :root {
     
