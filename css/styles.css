@@ -73,7 +73,7 @@
     --color-surface:var(--color-dark-green-4);
   --color-text: var(--color-light-green-4);
   --color-accent:var(--color-pink-4);
-  --color-text-box:var(--color-greyscale-1);
+  --color-text-box:var(--color-greyscale-7);
 }
 body {
   font-family: Sono, system-ui, -apple-system, sans-serif;
