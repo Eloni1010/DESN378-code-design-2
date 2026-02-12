@@ -1,10 +1,6 @@
 /* Design Tokens - Lynn Port's Portfolio */
 /* Color Tokens */
 :root {
-  --color-surface: #71BF76;
-  --color-text: #223D24;
-  --color-accent: #B36cb9;
-  --color-text-box:#ffffff;
    --color-light-green-1: #e7fee8;
    --color-light-green-2: #cbf0ce;
    --color-light-green-3: #a4dba7;
