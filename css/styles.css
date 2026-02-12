@@ -55,6 +55,26 @@
    --spacing-xxl: 56px;
    --spacing-xxxl: 72px;
 }
+:root {
+      --color-surface:var(--color-light-green-4);
+  --color-text: var(--color-dark-green-4);
+  --color-accent:var(--color-pink-4);
+  --color-text-box:var(--color-greyscale-1);
+}
+/*Light mode*/
+[data-theme= "light"]{
+     --color-surface:var(--color-light-green-4);
+  --color-text: var(--color-dark-green-4);
+  --color-accent:var(--color-pink-4);
+  --color-text-box:var(--color-greyscale-1);
+}
+/*Dark Mode*/
+[data-theme="dark"] {
+    --color-surface:var(--color-dark-green-4);
+  --color-text: var(--color-light-green-4);
+  --color-accent:var(--color-pink-4);
+  --color-text-box:var(--color-greyscale-1);
+}
 body {
   font-family: Sono, system-ui, -apple-system, sans-serif;
   line-height: 1.6;
@@ -64,7 +84,6 @@ body {
   color: var(--color-text);
   background: var(--color-surface);
 }
-
 main {
   min-height: 80vh;
   display: flex;
