@@ -64,12 +64,7 @@ body {
   color: var(--color-text);
   background: var(--color-surface);
 }
-body.dark {
-  --color-surface:#223D24;
-  --color-text: #71BF76;
-  --color-accent:#B36cb9;
-  --color-text-box:#040404;
-}
+
 main {
   min-height: 80vh;
   display: flex;
