@@ -11,7 +11,12 @@ console.log('Portfolio loaded');
   alert('Hello World')
   alert('I am Java Script')
   alert('You just lost the game lol')
-const toggle = document.querySelector('.theme-toggle');
+// Load saved theme (if any)
+const savedTheme = localStorage.getItem('theme');
+if (savedTheme) {
+  document.documentElement.dataset.theme = savedTheme;
+}
+  const toggle = document.querySelector('.theme-toggle');
 toggle.addEventListener('click', function() {
   const currentTheme = document.documentElement.dataset.theme;
   let newTheme;
