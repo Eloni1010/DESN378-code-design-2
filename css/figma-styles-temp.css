@@ -80,5 +80,11 @@ small {
 }
 /*Spacing tokens*/
 :root {
-    
+       --spacing-xs: 8px;
+   --spacing-s: 16px;
+   --spacing-m: 24px;
+   --spacing-l: 32px;
+   --spacing-xl: 40px;
+   --spacing-xxl: 56px;
+   --spacing-xxxl: 72px;
 }
