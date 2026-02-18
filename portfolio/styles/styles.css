@@ -1,0 +1,79 @@
+* {
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+body{
+  background-color:var(--color-surface);
+}
+#welcome-section {
+  position: fixed;
+  display: flex;
+  width:100%;
+  height: 80px;
+  background-color: var(--color-text-box);
+  justify-content: space-around;
+  border: 10px solid var(--color-text);
+  border-radius: 10px;
+}
+#spacer {
+  width:100%;
+  height:100px;
+}
+#welcome {
+  font-family: Limelight, system-ui, -apple-system, sans-serif;
+  font-size: 36px;
+  color: var(--color-text);
+}
+nav {
+  font-family: Limelight, system-ui, -apple-system, sans-serif;
+  display: flex;
+  justify-content: space-around;
+}
+.nav-link {
+  padding: 5px;
+}
+a {
+  color: var(--color-text);
+}
+.project-title {
+  font-size: 25px;
+  color: var(--color-text);
+}
+#intro, #projects, footer {
+  font-family: Sono, system-ui, -apple-system, sans-serif;
+  color: var(--color-text)
+}
+#intro {
+font-size:24px;
+  width: 468px;
+  text-align: center;
+  margin: 20px auto;
+}
+#projects {
+  display: grid;
+  grid-template-rows: 3;
+  gap: 20px;
+}
+#image {
+  width:250px;
+}
+footer {
+  margin-top: 200px;
+  text-align: center;
+    font-family: Sono, system-ui, -apple-system, sans-serif;
+    margin-bottom: 1rem;
+    color:var(--color-text);
+}
+
+@media (max-width: 730px) {
+  #welcome {
+    font-size: 18px;
+  }
+h1 {
+  font-family: Limelight, system-ui, -apple-system, sans-serif;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+}
